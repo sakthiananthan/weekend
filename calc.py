@@ -13,5 +13,4 @@ def div(a,b):
     r=a%b
     return ans,q,r
 
-# this is a calc program
 
