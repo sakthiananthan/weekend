@@ -1,4 +1,4 @@
-def add(a,b):
+def addition(a,b):
     return a+b
 
 def sub(a,b):
@@ -12,3 +12,6 @@ def div(a,b):
     q=a//b
     r=a%b
     return ans,q,r
+
+# this is a calc program
+
