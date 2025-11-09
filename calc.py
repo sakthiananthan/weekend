@@ -1,10 +1,10 @@
 def addition(a,b):
     return a+b
 
-def sub(a,b):
+def subtraction(a,b):
     return a-b
 
-def mul(a,b):
+def multiplication(a,b):
     return a*b
 
 def div(a,b):
